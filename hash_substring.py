@@ -1,4 +1,4 @@
-# python3
+# 221RDB223
 
 def read_input():
     input_type = input()
